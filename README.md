@@ -1,2 +1,4 @@
 # jblock
-J from the block or Java Blockchain? Just a test repo for my self.
+J from the block or Java Blockchain?
+
+This is just a weekend project done for fun and to learn and get into blockchain development. 
